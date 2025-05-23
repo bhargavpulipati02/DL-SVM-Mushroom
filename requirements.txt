@@ -1,0 +1,4 @@
+Python 3.9.15
+tensorflow 2.19.0
+scikit-learn 1.6.1
+pandas 2.2.3                    
